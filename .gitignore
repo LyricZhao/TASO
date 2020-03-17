@@ -1,0 +1,8 @@
+/build
+examples/*.onnx
+examples/timer.txt
+python/build
+python/dist
+python/taso/_cython
+python/taso.egg-info
+__pycache__
